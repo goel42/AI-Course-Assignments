@@ -7,7 +7,7 @@ Introductory Assignment:
 1. BFS
 2. Dijkstra
 
-Assignment 1:
+Assignment 1: \\
 Question 1: https://www.hackerearth.com/problem/algorithm/question-1-37/
 Question 2: https://www.hackerearth.com/problem/algorithm/question-2-31/
 Question 3: https://www.hackerearth.com/problem/algorithm/question-3-33/
